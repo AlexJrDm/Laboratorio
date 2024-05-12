@@ -1,0 +1,8 @@
+Boleto numero 1: 
+Nombres y apellidos del comprador: Alex Joan  Robinzon Franco
+Edad 19
+Numero de cedula: 1718966359
+Ubicacion en el estadio: Tribuna
+Precio a pagar: 65.99
+_______________________________________________________
+
